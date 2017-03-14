@@ -16,7 +16,7 @@ Use this widget to view and edit the time range from within dashboards. Use the 
 ```bash
 cd KIBANA_HOME/plugins
 git clone git@github.com:nreese/kibana-time-plugin.git
-vi kibana-time-plugin/package.js //set version to match kibana version
+vi kibana-time-plugin/package.json //set version to match kibana version
 ```
 
 ## Kibana 4.x
